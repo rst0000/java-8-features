@@ -1,10 +1,10 @@
-package com.inn.rst;
+package com.inn.rst.runner;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class AppRunner 
 {
     public static void main( String[] args )
     {
